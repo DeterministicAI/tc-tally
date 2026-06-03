@@ -1,0 +1,151 @@
+{
+  "agents_scanned": 6,
+  "vulns_found": 6364,
+  "critical_count": 137,
+  "high_count": 4920,
+  "medium_count": 1307,
+  "by_category": {
+    "audit_trail": 4917,
+    "dependencies": 411,
+    "logging": 896,
+    "memory_poisoning": 125,
+    "oauth_inheritance": 15
+  },
+  "repos_by_category": {
+    "audit_trail": 3,
+    "dependencies": 6,
+    "logging": 4,
+    "memory_poisoning": 3,
+    "oauth_inheritance": 2
+  },
+  "category_labels": {
+    "approval_gate": "Missing human approval",
+    "audit_trail": "Missing audit trail",
+    "config": "Unsafe configuration",
+    "credentials": "Exposed secrets",
+    "dependencies": "Supply-chain risk",
+    "logging": "Weak operational logging",
+    "memory_isolation": "Unsafe agent memory",
+    "memory_poisoning": "Memory poisoning risk",
+    "network": "Network abuse risk",
+    "oauth_inheritance": "OAuth token in LLM prompt",
+    "prompt_injection": "Prompt injection risk",
+    "recursive_spawn": "Unbounded agent recursion",
+    "tool_execution": "Unrestricted tool access",
+    "tool_result_injection": "Indirect prompt injection"
+  },
+  "recent": [
+    {
+      "type": "dependencies",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "dependencies",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "dependencies",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "dependencies",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "audit_trail",
+      "sev": "high",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "audit_trail",
+      "sev": "high",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "audit_trail",
+      "sev": "high",
+      "ts_bucket": 1780496100
+    },
+    {
+      "type": "audit_trail",
+      "sev": "high",
+      "ts_bucket": 1780496100
+    }
+  ],
+  "last_updated": "2026-06-03T14:17:59Z",
+  "proof": {
+    "receipt_id": "tcscan_2026_06_03_14be4b51550e",
+    "receipt_hash": "sha256:14be4b51550e58ec175fcef661e040a517c5251b818a14763c184e53eacaa57c",
+    "public_tally_hash": "sha256:73fb221c173e3e5e740036f26daa68ae79fb19815afb18b9fbc17fd9a2422462",
+    "private_findings_merkle_root": "sha256:387ce3631f1b1e9f37b36592fff727f7a8fcd8dfc75e1c86a02f1d96acd50934",
+    "scanner_commit": "d6874758fe2803fd71db3fef310c3f99a255b04d",
+    "scanner_version": "",
+    "timestamp": "2026-06-03T14:17:59Z",
+    "verify_url": "https://trustableclaw.com/#/verify/tcscan_2026_06_03_14be4b51550e",
+    "signature": "hmac-sha256:9552a9cd8a8cb6afe57843c74737c74746ca9b1313368e023f21aca2aace0ee5"
+  }
+}
