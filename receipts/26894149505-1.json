@@ -1,0 +1,38 @@
+{
+  "receipt_id": "tcscan_2026_06_03_723ab4daa6fd",
+  "receipt_hash": "sha256:723ab4daa6fdb65ab97a1ca9617aee32819581fcf616dadea7613e3ba0323754",
+  "signature": "hmac-sha256:3deeb058b04e58f1e39185e128fd881e3c62cbed2519c432dc6ab8ef00d8ab81",
+  "payload": {
+    "type": "trustableclaw.agent_scanner.nightly_tally",
+    "run_id": "26894149505-1",
+    "scan_date": "2026-06-03",
+    "scanner_commit": "d6874758fe2803fd71db3fef310c3f99a255b04d",
+    "scanner_version": "",
+    "agents_scanned": 11,
+    "agent_security_risks_detected": 7166,
+    "critical_count": 152,
+    "high_count": 5311,
+    "medium_count": 1703,
+    "category_totals": {
+      "audit_trail": 5288,
+      "dependencies": 437,
+      "logging": 1265,
+      "memory_poisoning": 140,
+      "network": 1,
+      "oauth_inheritance": 15,
+      "recursive_spawn": 20
+    },
+    "repos_by_category_totals": {
+      "audit_trail": 7,
+      "dependencies": 8,
+      "logging": 7,
+      "memory_poisoning": 4,
+      "network": 1,
+      "oauth_inheritance": 2,
+      "recursive_spawn": 1
+    },
+    "private_findings_merkle_root": "sha256:ac64b8030bd5d7a76bca65919ff79688d2ad3a70f264143228ac39574f229f76",
+    "public_tally_hash": "sha256:3826071a7509b58023fa07fa14c766e3c793cbbdf1e2b8a0e4af2ba2cdcc7822",
+    "timestamp": "2026-06-03T15:15:42Z"
+  }
+}
