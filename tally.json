@@ -1,18 +1,18 @@
 {
   "agents_scanned": 39,
-  "vulns_found": 50340,
+  "vulns_found": 50396,
   "critical_count": 40,
-  "high_count": 32404,
-  "medium_count": 17896,
+  "high_count": 32360,
+  "medium_count": 17996,
   "by_category": {
-    "audit_trail": 32328,
+    "audit_trail": 32282,
     "config": 24,
     "credentials": 30,
-    "dependencies": 1883,
-    "logging": 15884,
+    "dependencies": 1889,
+    "logging": 15971,
     "memory_poisoning": 61,
-    "network": 77,
-    "recursive_spawn": 25,
+    "network": 84,
+    "recursive_spawn": 27,
     "tool_execution": 28
   },
   "repos_by_category": {
@@ -20,7 +20,7 @@
     "config": 6,
     "credentials": 6,
     "dependencies": 31,
-    "logging": 30,
+    "logging": 31,
     "memory_poisoning": 9,
     "network": 2,
     "recursive_spawn": 1,
@@ -46,114 +46,114 @@
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780724700
+      "ts_bucket": 1780812900
     }
   ],
-  "last_updated": "2026-06-06T06:00:37Z",
+  "last_updated": "2026-06-07T06:28:43Z",
   "proof": {
-    "receipt_id": "tcscan_2026_06_06_37b1a1e39418",
-    "receipt_hash": "sha256:37b1a1e394182eb88e8b37d5d2f2aa7c03ac9febf534a3914fc0ff6a6e8e2a90",
-    "public_tally_hash": "sha256:3e0117be8bcd754d871905e2850b10c7ecc6be3932b68c6ba379b1db9e9fd19b",
-    "private_findings_merkle_root": "sha256:19ef6c328b4083fd0f004d9b6372239f99a01687b686895c88cbd8b0da12d4bb",
-    "scanner_commit": "7153bb678f411b5fac80771879954fe8e1d300a8",
+    "receipt_id": "tcscan_2026_06_07_55a49fe06480",
+    "receipt_hash": "sha256:55a49fe064804835d9e791b91139cb12da37c533586e2de0683cacecf53673ed",
+    "public_tally_hash": "sha256:3a4c7cdc060b9483190f9af2c2e63f68ffdbb6dfaca5d12e904e0645ef41b897",
+    "private_findings_merkle_root": "sha256:04587450bbf709533ff28876fd3f170d582fbf4898afc8f6862b781c55caf881",
+    "scanner_commit": "2212b0a7730c0ac8cf64093559bf6197899a2e39",
     "scanner_version": "",
-    "timestamp": "2026-06-06T06:00:38Z",
-    "verify_url": "https://trustableclaw.com/#/verify/tcscan_2026_06_06_37b1a1e39418",
-    "signature": "hmac-sha256:a029f3b4cb56146f9a22e2b205a12b3ea41eb0b6db687382754ece8b03dfed61"
+    "timestamp": "2026-06-07T06:28:44Z",
+    "verify_url": "https://trustableclaw.com/#/verify/tcscan_2026_06_07_55a49fe06480",
+    "signature": "hmac-sha256:6741492ff4ca0e20a4545cb81edbe9076972930b6e705c9d822d30bb9bb73112"
   }
 }
