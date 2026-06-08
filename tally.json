@@ -1,30 +1,30 @@
 {
-  "agents_scanned": 51,
-  "vulns_found": 57833,
-  "critical_count": 44,
-  "high_count": 36012,
-  "medium_count": 21777,
+  "agents_scanned": 73,
+  "vulns_found": 72880,
+  "critical_count": 59,
+  "high_count": 45659,
+  "medium_count": 27162,
   "by_category": {
-    "audit_trail": 35929,
-    "config": 33,
-    "credentials": 35,
-    "dependencies": 2580,
-    "logging": 19038,
-    "memory_isolation": 2,
-    "memory_poisoning": 62,
-    "network": 97,
+    "audit_trail": 45550,
+    "config": 40,
+    "credentials": 49,
+    "dependencies": 3088,
+    "logging": 23644,
+    "memory_isolation": 8,
+    "memory_poisoning": 83,
+    "network": 361,
     "recursive_spawn": 28,
     "tool_execution": 29
   },
   "repos_by_category": {
-    "audit_trail": 32,
-    "config": 8,
-    "credentials": 8,
-    "dependencies": 38,
-    "logging": 39,
-    "memory_isolation": 2,
-    "memory_poisoning": 10,
-    "network": 4,
+    "audit_trail": 44,
+    "config": 12,
+    "credentials": 10,
+    "dependencies": 52,
+    "logging": 58,
+    "memory_isolation": 4,
+    "memory_poisoning": 13,
+    "network": 6,
     "recursive_spawn": 2,
     "tool_execution": 3
   },
@@ -48,114 +48,114 @@
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     },
     {
       "type": "dependencies",
       "sev": "medium",
-      "ts_bucket": 1780921800
+      "ts_bucket": 1780924500
     }
   ],
-  "last_updated": "2026-06-08T12:37:10Z",
+  "last_updated": "2026-06-08T13:22:32Z",
   "proof": {
-    "receipt_id": "tcscan_2026_06_08_5d48cb6b33bf",
-    "receipt_hash": "sha256:5d48cb6b33bf5fdb18bdbc713f050d1c591efac272e3e224f8a02bff46798c34",
-    "public_tally_hash": "sha256:dd44b628032a483e7d2f32eaee28b065341fc92fcad7d585bcf061c14ce79bec",
-    "private_findings_merkle_root": "sha256:1952f64966da2d52a10ff83426391ebf19c170c14d8898767551d237e219180d",
-    "scanner_commit": "5044720cf29cc4fd6465070169f6e7c2442db9d7",
+    "receipt_id": "tcscan_2026_06_08_8391b65e9942",
+    "receipt_hash": "sha256:8391b65e9942041d3d7394f2095c5e0b395e2eb69e96038787becbd5697da20d",
+    "public_tally_hash": "sha256:85293737ef6813d02900642730e0e813f3f9158aaf8ec3165b64e2a282e55f4d",
+    "private_findings_merkle_root": "sha256:e3bb2fcd1a5b60003fecac404f6c58c8314dbb4617f807c47ebbf9c5e2b4c61a",
+    "scanner_commit": "14ee33aafd80d03fdca72575923ff563cdca80ef",
     "scanner_version": "",
-    "timestamp": "2026-06-08T12:37:11Z",
-    "verify_url": "https://trustableclaw.com/#/verify/tcscan_2026_06_08_5d48cb6b33bf",
-    "signature": "hmac-sha256:f1e3a972541d23a242e35bc7aaf9229e98120e88ec394d03aa8584454ede664e"
+    "timestamp": "2026-06-08T13:22:32Z",
+    "verify_url": "https://trustableclaw.com/#/verify/tcscan_2026_06_08_8391b65e9942",
+    "signature": "hmac-sha256:1cedf3cf3ac17e95fa0e42583e183c41c3900964436de48e6da4c89e5e056847"
   }
 }
