@@ -1,15 +1,15 @@
 {
   "agents_scanned": 39,
-  "vulns_found": 50396,
+  "vulns_found": 50807,
   "critical_count": 40,
-  "high_count": 32360,
-  "medium_count": 17996,
+  "high_count": 32769,
+  "medium_count": 17998,
   "by_category": {
-    "audit_trail": 32282,
+    "audit_trail": 32691,
     "config": 24,
     "credentials": 30,
     "dependencies": 1889,
-    "logging": 15971,
+    "logging": 15973,
     "memory_poisoning": 61,
     "network": 84,
     "recursive_spawn": 27,
@@ -46,114 +46,114 @@
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1780812900
+      "ts_bucket": 1780901100
     }
   ],
-  "last_updated": "2026-06-07T06:28:43Z",
+  "last_updated": "2026-06-08T06:48:05Z",
   "proof": {
-    "receipt_id": "tcscan_2026_06_07_55a49fe06480",
-    "receipt_hash": "sha256:55a49fe064804835d9e791b91139cb12da37c533586e2de0683cacecf53673ed",
-    "public_tally_hash": "sha256:3a4c7cdc060b9483190f9af2c2e63f68ffdbb6dfaca5d12e904e0645ef41b897",
-    "private_findings_merkle_root": "sha256:04587450bbf709533ff28876fd3f170d582fbf4898afc8f6862b781c55caf881",
+    "receipt_id": "tcscan_2026_06_08_3735378b64a8",
+    "receipt_hash": "sha256:3735378b64a8a14c026c116b38351fdbc54989b59e1dcfa0c2e1c88848531b9f",
+    "public_tally_hash": "sha256:a8aaa5e2a07365364832913aeb04fbd6980591afaba1276f5c647f7910c9867d",
+    "private_findings_merkle_root": "sha256:7b3f7ad9a4efa8517c8b1391cb94ec9a7ef32887b7450e7254ae4b0410088549",
     "scanner_commit": "2212b0a7730c0ac8cf64093559bf6197899a2e39",
     "scanner_version": "",
-    "timestamp": "2026-06-07T06:28:44Z",
-    "verify_url": "https://trustableclaw.com/#/verify/tcscan_2026_06_07_55a49fe06480",
-    "signature": "hmac-sha256:6741492ff4ca0e20a4545cb81edbe9076972930b6e705c9d822d30bb9bb73112"
+    "timestamp": "2026-06-08T06:48:06Z",
+    "verify_url": "https://trustableclaw.com/#/verify/tcscan_2026_06_08_3735378b64a8",
+    "signature": "hmac-sha256:6b1b1feba838d3e5a3c4f5a1fa10e994f06979f9fbedd19c2949d09a6d418dd6"
   }
 }
