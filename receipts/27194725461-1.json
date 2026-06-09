@@ -1,0 +1,44 @@
+{
+  "receipt_id": "tcscan_2026_06_09_f5d0617ac020",
+  "receipt_hash": "sha256:f5d0617ac020e09c59178d80e7c0dc55c49d1ff64a2f7255e5022bd07a01053b",
+  "signature": "hmac-sha256:501b15e28fc0f0f2194ee49a1393d8aa9eea16fa859b696136b7922e26cc053d",
+  "payload": {
+    "type": "trustableclaw.agent_scanner.nightly_tally",
+    "run_id": "27194725461-1",
+    "scan_date": "2026-06-09",
+    "scanner_commit": "ccfa3d09f2c7cf365272f1373e793e692d085818",
+    "scanner_version": "",
+    "agents_scanned": 95,
+    "agent_security_risks_detected": 84581,
+    "critical_count": 72,
+    "high_count": 53497,
+    "medium_count": 31012,
+    "category_totals": {
+      "audit_trail": 53361,
+      "config": 43,
+      "credentials": 53,
+      "dependencies": 3491,
+      "logging": 27049,
+      "memory_isolation": 8,
+      "memory_poisoning": 119,
+      "network": 400,
+      "recursive_spawn": 28,
+      "tool_execution": 29
+    },
+    "repos_by_category_totals": {
+      "audit_trail": 56,
+      "config": 14,
+      "credentials": 12,
+      "dependencies": 68,
+      "logging": 74,
+      "memory_isolation": 4,
+      "memory_poisoning": 17,
+      "network": 7,
+      "recursive_spawn": 2,
+      "tool_execution": 3
+    },
+    "private_findings_merkle_root": "sha256:f5bc8eb155dc9a191d07173195b90fda81d9be7d33fcf32cd049c7fa8a4a485c",
+    "public_tally_hash": "sha256:3c897ccd571fa62cb126aa60fb06be44b09e79efba3c70784e8413755a6d0d11",
+    "timestamp": "2026-06-09T08:50:27Z"
+  }
+}
