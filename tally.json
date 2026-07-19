@@ -1,56 +1,56 @@
 {
-  "agents_scanned": 2019,
-  "vulns_found": 884458,
-  "critical_count": 31065,
-  "high_count": 555711,
-  "medium_count": 297123,
+  "agents_scanned": 2068,
+  "vulns_found": 888376,
+  "critical_count": 31115,
+  "high_count": 558407,
+  "medium_count": 298290,
   "by_category": {
     "approval_gate": 14,
-    "audit_trail": 507183,
-    "capability_composition": 261,
-    "config": 484,
-    "credentials": 1028,
-    "cross_file_trust_boundary": 569,
-    "dependencies": 50258,
+    "audit_trail": 509642,
+    "capability_composition": 264,
+    "config": 486,
+    "credentials": 1029,
+    "cross_file_trust_boundary": 574,
+    "dependencies": 50747,
     "excessive_agency": 41,
-    "generalizable_discovery": 16813,
-    "logging": 235810,
+    "generalizable_discovery": 16873,
+    "logging": 236466,
     "mcp_tooling": 374,
-    "memory_isolation": 24409,
-    "memory_poisoning": 2307,
-    "network": 3573,
+    "memory_isolation": 24437,
+    "memory_poisoning": 2337,
+    "network": 3579,
     "nondeterministic_gate": 48,
     "oauth_inheritance": 878,
     "prompt_injection": 126,
-    "receipt_audit_gap": 37963,
-    "recursive_spawn": 1468,
+    "receipt_audit_gap": 38136,
+    "recursive_spawn": 1469,
     "tool_execution": 398,
-    "trust_boundary_dataflow": 283,
-    "unbounded_consumption": 170
+    "trust_boundary_dataflow": 286,
+    "unbounded_consumption": 172
   },
   "repos_by_category": {
     "approval_gate": 11,
-    "audit_trail": 1176,
-    "capability_composition": 75,
-    "config": 179,
-    "credentials": 164,
-    "cross_file_trust_boundary": 164,
-    "dependencies": 1101,
+    "audit_trail": 1213,
+    "capability_composition": 76,
+    "config": 181,
+    "credentials": 165,
+    "cross_file_trust_boundary": 168,
+    "dependencies": 1122,
     "excessive_agency": 9,
-    "generalizable_discovery": 1034,
-    "logging": 1345,
+    "generalizable_discovery": 1053,
+    "logging": 1382,
     "mcp_tooling": 35,
-    "memory_isolation": 674,
-    "memory_poisoning": 282,
-    "network": 73,
+    "memory_isolation": 682,
+    "memory_poisoning": 296,
+    "network": 74,
     "nondeterministic_gate": 27,
     "oauth_inheritance": 248,
     "prompt_injection": 49,
-    "receipt_audit_gap": 1168,
-    "recursive_spawn": 138,
+    "receipt_audit_gap": 1194,
+    "recursive_spawn": 139,
     "tool_execution": 50,
-    "trust_boundary_dataflow": 91,
-    "unbounded_consumption": 93
+    "trust_boundary_dataflow": 94,
+    "unbounded_consumption": 94
   },
   "category_labels": {
     "approval_gate": "Missing human approval",
@@ -79,116 +79,116 @@
   },
   "recent": [
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     },
     {
-      "type": "dependencies",
+      "type": "logging",
       "sev": "medium",
-      "ts_bucket": 1784349000
+      "ts_bucket": 1784436300
     }
   ],
-  "last_updated": "2026-07-18T04:40:47Z",
+  "last_updated": "2026-07-19T05:02:53Z",
   "proof": {
-    "receipt_id": "tcscan_2026_07_18_8192c3030d5f",
-    "receipt_hash": "sha256:8192c3030d5fb1baa4b2b24d9f3a1b7ba1402d88e5d8e6616b2e9eee0eca9649",
-    "public_tally_hash": "sha256:7002dc08bdf7a526ffe49a2395ceb1a1500d1c3ab2d7316488377be071e8c412",
-    "private_findings_merkle_root": "sha256:2b0f88ec4b233696ba01896feb63fccde6f301fb9ae5613990dc982326bc7967",
+    "receipt_id": "tcscan_2026_07_19_614259f82e14",
+    "receipt_hash": "sha256:614259f82e14b1933da4e13fff405e99cad4e16e5f75d76f78dff748b6084a8b",
+    "public_tally_hash": "sha256:88dca3148e015a49ab36a27e874905c5b0e64d224388b291c972d3d27dae337d",
+    "private_findings_merkle_root": "sha256:edf3ffd8fb930c299eb1810b3450fb8dc256b4723b4e63abb8dbb5d9923862f6",
     "scanner_commit": "4a4bb014ede37d095652a790abac59f44e15c1ff",
     "scanner_version": "",
-    "timestamp": "2026-07-18T04:40:54Z",
-    "verify_url": "https://trustableclaw.com/#/verify/tcscan_2026_07_18_8192c3030d5f",
-    "signature": "hmac-sha256:39492441943fbbce21f1369a09357df70d6bcbe1895c51a1ef7b87f8e82c56b7"
+    "timestamp": "2026-07-19T05:02:59Z",
+    "verify_url": "https://trustableclaw.com/#/verify/tcscan_2026_07_19_614259f82e14",
+    "signature": "hmac-sha256:afea1e7d74c679db111e84343b4677edab42be89493c8eef3a049b324281d506"
   }
 }
