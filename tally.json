@@ -1,28 +1,28 @@
 {
-  "agents_scanned": 2884,
-  "vulns_found": 1325920,
-  "critical_count": 60103,
-  "high_count": 834662,
-  "medium_count": 430340,
+  "agents_scanned": 2897,
+  "vulns_found": 1330259,
+  "critical_count": 60300,
+  "high_count": 837604,
+  "medium_count": 431539,
   "by_category": {
     "approval_gate": 18,
-    "audit_trail": 746705,
-    "capability_composition": 395,
-    "config": 583,
+    "audit_trail": 749271,
+    "capability_composition": 398,
+    "config": 585,
     "credentials": 2034,
-    "cross_file_trust_boundary": 825,
-    "dependencies": 82656,
+    "cross_file_trust_boundary": 826,
+    "dependencies": 82837,
     "excessive_agency": 58,
-    "generalizable_discovery": 26420,
-    "logging": 330098,
+    "generalizable_discovery": 26527,
+    "logging": 331016,
     "mcp_tooling": 420,
-    "memory_isolation": 49840,
-    "memory_poisoning": 3458,
-    "network": 6633,
-    "nondeterministic_gate": 84,
-    "oauth_inheritance": 1379,
+    "memory_isolation": 49987,
+    "memory_poisoning": 3459,
+    "network": 6678,
+    "nondeterministic_gate": 87,
+    "oauth_inheritance": 1394,
     "prompt_injection": 138,
-    "receipt_audit_gap": 70561,
+    "receipt_audit_gap": 70911,
     "recursive_spawn": 2614,
     "tool_execution": 420,
     "trust_boundary_dataflow": 351,
@@ -30,23 +30,23 @@
   },
   "repos_by_category": {
     "approval_gate": 14,
-    "audit_trail": 1713,
-    "capability_composition": 122,
-    "config": 229,
+    "audit_trail": 1719,
+    "capability_composition": 123,
+    "config": 231,
     "credentials": 230,
-    "cross_file_trust_boundary": 241,
-    "dependencies": 1558,
+    "cross_file_trust_boundary": 242,
+    "dependencies": 1565,
     "excessive_agency": 19,
-    "generalizable_discovery": 1464,
-    "logging": 1915,
+    "generalizable_discovery": 1471,
+    "logging": 1923,
     "mcp_tooling": 46,
-    "memory_isolation": 1005,
-    "memory_poisoning": 394,
-    "network": 107,
-    "nondeterministic_gate": 47,
-    "oauth_inheritance": 371,
+    "memory_isolation": 1012,
+    "memory_poisoning": 395,
+    "network": 109,
+    "nondeterministic_gate": 49,
+    "oauth_inheritance": 373,
     "prompt_injection": 55,
-    "receipt_audit_gap": 1691,
+    "receipt_audit_gap": 1699,
     "recursive_spawn": 225,
     "tool_execution": 61,
     "trust_boundary_dataflow": 119,
@@ -81,114 +81,114 @@
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1789370100
+      "ts_bucket": 1789454700
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1789370100
+      "ts_bucket": 1789454700
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1789370100
+      "ts_bucket": 1789454700
     },
     {
-      "type": "receipt_audit_gap",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     },
     {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     },
     {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     },
     {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     },
     {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     },
     {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     },
     {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     },
     {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     },
     {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     },
     {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     },
     {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
-    },
-    {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1789370100
+      "ts_bucket": 1789454700
     },
     {
       "type": "audit_trail",
       "sev": "high",
-      "ts_bucket": 1789370100
+      "ts_bucket": 1789454700
     },
     {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     },
     {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     },
     {
-      "type": "audit_trail",
-      "sev": "high",
-      "ts_bucket": 1789370100
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
+    },
+    {
+      "type": "logging",
+      "sev": "medium",
+      "ts_bucket": 1789454700
     }
   ],
-  "last_updated": "2026-09-14T07:26:26Z",
+  "last_updated": "2026-09-15T06:57:03Z",
   "proof": {
-    "receipt_id": "tcscan_2026_09_14_0c2ac46e91c4",
-    "receipt_hash": "sha256:0c2ac46e91c46a8d605f30e8dd470691f602fd7c3df836e31a0250fe9c92560c",
-    "public_tally_hash": "sha256:8e5a9922691bd52aa74686ed44fbe102d3e256d9b18cca4e1ad0556797820b39",
-    "private_findings_merkle_root": "sha256:f9a5e92a9fc134a886caff942a4cf981e08a4040492cff478f4e12d2148af6b2",
+    "receipt_id": "tcscan_2026_09_15_78ece18c87dc",
+    "receipt_hash": "sha256:78ece18c87dc8f34374562c43f1939066312abe6ebaf072a9faa15932180fe17",
+    "public_tally_hash": "sha256:e385d86c182378cd18c12779023d2dbc0408ff3d77ce91ec7bd7b14fd4616ceb",
+    "private_findings_merkle_root": "sha256:23cccf0edf39d8ea0ab6fafb2a9950bb9f4090fd0ec683aa355a3369e2e47229",
     "scanner_commit": "0d8bc45f0a5e1a85a632748d03dfed5496de606f",
     "scanner_version": "",
-    "timestamp": "2026-09-14T07:26:35Z",
-    "verify_url": "https://trustableclaw.com/#/verify/tcscan_2026_09_14_0c2ac46e91c4",
-    "signature": "hmac-sha256:ff4dfcf91b62f8eda0dc959c9409312ac1cf51f71f568129e7c972cc8dc7cdd7"
+    "timestamp": "2026-09-15T06:57:13Z",
+    "verify_url": "https://trustableclaw.com/#/verify/tcscan_2026_09_15_78ece18c87dc",
+    "signature": "hmac-sha256:2e38bc300a5526fc86d0e852df204f15fc7b9956806504246ec9100a98f8907a"
   }
 }
